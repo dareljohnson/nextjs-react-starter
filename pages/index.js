@@ -4,7 +4,7 @@ const Index = () => (
     <Layout>
         <div>
             <h1>
-                Welcome to Bitzprice
+                Welcome to Starter App
             </h1>
         </div>
     </Layout>

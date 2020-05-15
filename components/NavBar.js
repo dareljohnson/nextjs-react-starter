@@ -3,7 +3,7 @@ import Link from 'next/link'
 const NavBar = () => (
        <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
            <div className="container">
-                <a className="navbar-brand" href="/">BitzPrice</a>
+                <a className="navbar-brand" href="/">Starter App</a>
                 <div className="collapse navbar-collapse" id="navbarColor01">
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">

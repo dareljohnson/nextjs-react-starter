@@ -21,7 +21,7 @@ const contentStyle = {
 const Layout = props => (
     <div>
         <Head>
-            <title>BitzPrice</title>
+            <title>Nextjs Starter</title>
             <link rel="stylesheet" 
             href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/materia/bootstrap.min.css"></link>
         </Head>

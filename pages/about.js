@@ -4,10 +4,10 @@ const About = () => (
     <Layout>
         <div>
             <h1>
-                About Bitzprice
+                About Starter App
             </h1>
             <p>
-                Application to view Bitcoin prices
+                Application to view Starter App
             </p>
         </div>
     </Layout>
